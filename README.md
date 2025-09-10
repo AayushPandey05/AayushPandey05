@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushPandey05](https://github.com/AayushPandey05)
 
-- 💬 Ask me about **AWS, Kafka, Redis, GRPC, RabbitMQ**
+- 💬 Ask me about **Authentication & Frameworks, OAuth, Auth0, MCP Server, AWS, Kafka**
 
 - 📫 How to reach me **aayushpandey2905@gmai.com**
 
