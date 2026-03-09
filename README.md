@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayushpandey2905@gmai.com**
 
-- 🌐Know more about me [https://aayushpandey05.github.io/Personal/](https://aayushpandey05.github.io/Personal/)
+- 🌐Know more about me [https://aayushpandey05.github.io/Personal_Portfolio/](https://aayushpandey05.github.io/Personal_Portfolio/)
 
 - ⚡ Fun fact **I write better code after my second cup of coffee. First cup just wakes the bugs up**
 
