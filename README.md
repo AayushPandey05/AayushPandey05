@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushpandey05&label=Profile%20views&color=0e75b6&style=flat" alt="aayushpandey05" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **CI/CD automation, LLM, MDM and Cloud Architect**
+- 🌱 I’m currently learning **CI/CD automation, Cloud Architect, Okta, Auth0 and Keygraph Products**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushPandey05](https://github.com/AayushPandey05)
 
