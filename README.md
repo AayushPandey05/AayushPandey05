@@ -1,4 +1,6 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<div align="center">
+<a href="https://heyitsaayush.me"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="MasterHead" width="100%"/></a>
+</div>
 
 <h1 align="center">Hi, I'm Aayush Pandey</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
