@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Aayush Pandey</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">Identity Security • IAM • OAuth 2.0 • Zero Trust</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushpandey05&label=Profile%20views&color=0e75b6&style=flat" alt="aayushpandey05" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
