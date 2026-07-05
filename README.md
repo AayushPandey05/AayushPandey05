@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushpandey05&label=Profile%20views&color=0e75b6&style=flat" alt="aayushpandey05" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔐 Currently deep diving into **Identity Security, Zero Trust, Financial-Grade Identity, Okta, Auth0 and OAuth 2.0**
+- 🔐 Building expertise in **Identity Security, Financial-Grade Identity (FGI), OAuth 2.0, OIDC, Okta, Auth0 and Zero Trust**
 
 - 💬 Ask me about **OAuth 2.0, OIDC, SSO, MFA, IAM, JWT, Auth0 and Identity Security**
 
-- 📫 How to reach me **aayushpandey2905@gmai.com**
+- 📫 How to reach me **aayushpandey2905@gmail.com**
 
 - 🌐Know more about me [https://www.heyitsaayush.me](https://www.heyitsaayush.me)
 
